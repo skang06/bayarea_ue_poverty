@@ -1,6 +1,7 @@
 # Analysis of Unemployment, Poverty, and Life Expectancy in Bay Area, California with Vital Signs Data
 
 ## Background
+
 An [editorial by the Baltimore Sun](https://www.baltimoresun.com/opinion/editorial/bs-ed-0207-baltimore-poverty-20190205-story.html) provided arguments for how a focus on poverty in Baltimore could solve a wide array of the issues in the city. The article mentions that people may turn to crimes like burglary at a higher rate if they have less economic security, and feel the need to engage in it for financial reasons. Moreover,  the article states that “people in low-income neighborhoods such as Upton Druid Heights consistently have more health problems … than people in wealthier areas such as Roland Park.” The fact that household income has consequences beyond what one may initially think, like health and crime rates, makes this a very important and interesting metric to delve into.
 
 Additionally,[CBS Baltimore](https://baltimore.cbslocal.com/2017/07/06/life-expectancy-baltimore/) stated there are discrepancies in terms of life-expectancy in poorer areas of Baltimore. In fact, they had a life expectancy that was 20-years lower than that of richer areas. Lower life expectancy in poorer areas indicate that people are dying prematurely when these are preventable solutions, as those in richer areas are not dying so early. This problem is important as obviously we would like to create for a more equitable society, where people's livelihoods are not affected based on where they live- especially if there are ways to do so. 
@@ -9,22 +10,20 @@ Per an [article](https://www.borgenmagazine.com/unemployment-creates-poverty/), 
 
 In order to further corroborate the trends in different variables and the effectiveness of [Universal Basic Income (UBI)](https://www.investopedia.com/terms/b/basic-income.asp), which is when everyone receives a basic income from the government regularly, as a solution for Baltimore City's problem with poverty and inequitable life expectancy issue, we are looking into data from Bay Area, California. This is a wider data set from a big region of California, so the results can be applied to Baltimore City. 
 
-FINISH
-
 ## Business Question
+
 ___Would Universal Basic Income be an effective solution to reduce poverty, and thus increase life expectancy in poorer areas?___
 
-FINISH
-
 ## Open Data 
+
 1.	__[Vital Signs Open Data](https://www.vitalsigns.mtc.ca.gov/)for Bay Area, California in 2012:__ 
 - [Poverty data for cities](https://github.com/skang06/bayarea_ue_poverty_life_expectancy/blob/main/Bay_Area_Pov.csv):this dataset contains the original data source
 - [Poverty Data for counties](https://github.com/skang06/bayarea_ue_poverty_life_expectancy/blob/main/poverty_county.csv):this dataset contains the original data source
 - [Unemployment data for cities](https://github.com/skang06/bayarea_ue_poverty_life_expectancy/blob/main/Bay%20Area_UE.csv):this dataset contains the original data source
 - [Life expectancy data for counties](https://github.com/skang06/bayarea_ue_poverty_life_expectancy/blob/main/County_LE.csvth):this dataset contains the original data source
 
-
 ## Python Notebook
+
 Used Python and Google colaboratory to conduct analysis.
 - __Bay Area Poverty, UE, Life Expectancy.ipynb:__ a Google Colaboratory notebook to aggregate data and make data visualizations [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11teRC-rjrv8kMtpNIDOyBTZdIYh9PQTe#scrollTo=tbo5tE9SR066).
 
