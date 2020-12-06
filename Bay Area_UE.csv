@@ -1,0 +1,102 @@
+﻿City,County,Year,Unemployment_Rate,Source
+Alameda,Alameda County,2012,0.075,EDD
+Albany,Alameda County,2012,0.057,EDD
+Berkeley,Alameda County,2012,0.07,EDD
+Dublin,Alameda County,2012,0.055,EDD
+Emeryville,Alameda County,2012,0.056,EDD
+Fremont,Alameda County,2012,0.069,EDD
+Hayward,Alameda County,2012,0.12,EDD
+Livermore,Alameda County,2012,0.06,EDD
+Newark,Alameda County,2012,0.075,EDD
+Oakland,Alameda County,2012,0.107,EDD
+Piedmont,Alameda County,2012,0.049,EDD
+Pleasanton,Alameda County,2012,0.068,EDD
+San Leandro,Alameda County,2012,0.093,EDD
+Union City,Alameda County,2012,0.079,EDD
+Antioch,Contra Costa County,2012,0.122,EDD
+Brentwood,Contra Costa County,2012,0.076,EDD
+Clayton,Contra Costa County,2012,0.079,EDD
+Concord,Contra Costa County,2012,0.097,EDD
+Danville,Contra Costa County,2012,0.072,EDD
+El Cerrito,Contra Costa County,2012,0.079,EDD
+Hercules,Contra Costa County,2012,0.06,EDD
+Lafayette,Contra Costa County,2012,0.05,EDD
+Martinez,Contra Costa County,2012,0.081,EDD
+Moraga,Contra Costa County,2012,0.063,EDD
+Oakley,Contra Costa County,2012,0.111,EDD
+Orinda,Contra Costa County,2012,0.044,EDD
+Pinole,Contra Costa County,2012,0.075,EDD
+Pittsburg,Contra Costa County,2012,0.106,EDD
+Pleasant Hill,Contra Costa County,2012,0.075,EDD
+Richmond,Contra Costa County,2012,0.103,EDD
+San Pablo,Contra Costa County,2012,0.135,EDD
+San Ramon,Contra Costa County,2012,0.061,EDD
+Walnut Creek,Contra Costa County,2012,0.062,EDD
+Belvedere,Marin County,2012,0,EDD
+Corte Madera,Marin County,2012,0.043,EDD
+Fairfax,Marin County,2012,0.046,EDD
+Larkspur,Marin County,2012,0.077,EDD
+Mill Valley,Marin County,2012,0.045,EDD
+Novato,Marin County,2012,0.062,EDD
+Ross,Marin County,2012,0.05,EDD
+San Anselmo,Marin County,2012,0.059,EDD
+San Rafael,Marin County,2012,0.065,EDD
+Sausalito,Marin County,2012,0.073,EDD
+Tiburon,Marin County,2012,0.065,EDD
+American Canyon,Napa County,2012,0.099,EDD
+Calistoga,Napa County,2012,0.019,EDD
+Napa,Napa County,2012,0.089,EDD
+St. Helena,Napa County,2012,0.054,EDD
+Yountville,Napa County,2012,0.084,EDD
+San Francisco,San Francisco County,2012,0.068,EDD
+Atherton,San Mateo County,2012,0.064,EDD
+Belmont,San Mateo County,2012,0.056,EDD
+Brisbane,San Mateo County,2012,0.082,EDD
+Burlingame,San Mateo County,2012,0.05,EDD
+Colma,San Mateo County,2012,0,EDD
+Daly City,San Mateo County,2012,0.078,EDD
+East Palo Alto,San Mateo County,2012,0.1,EDD
+Foster City,San Mateo County,2012,0.059,EDD
+Half Moon Bay,San Mateo County,2012,0.063,EDD
+Hillsborough,San Mateo County,2012,0.055,EDD
+Menlo Park,San Mateo County,2012,0.051,EDD
+Millbrae,San Mateo County,2012,0.056,EDD
+Pacifica,San Mateo County,2012,0.059,EDD
+Portola Valley,San Mateo County,2012,0.041,EDD
+Redwood City,San Mateo County,2012,0.059,EDD
+San Bruno,San Mateo County,2012,0.062,EDD
+San Carlos,San Mateo County,2012,0.063,EDD
+San Mateo,San Mateo County,2012,0.062,EDD
+South San Francisco,San Mateo County,2012,0.068,EDD
+Woodside,San Mateo County,2012,0.023,EDD
+Campbell,Santa Clara County,2012,0.057,EDD
+Cupertino,Santa Clara County,2012,0.064,EDD
+Gilroy,Santa Clara County,2012,0.102,EDD
+Los Altos,Santa Clara County,2012,0.052,EDD
+Los Altos Hills,Santa Clara County,2012,0.043,EDD
+Los Gatos,Santa Clara County,2012,0.054,EDD
+Milpitas,Santa Clara County,2012,0.074,EDD
+Monte Sereno,Santa Clara County,2012,0.054,EDD
+Morgan Hill,Santa Clara County,2012,0.087,EDD
+Mountain View,Santa Clara County,2012,0.061,EDD
+Palo Alto,Santa Clara County,2012,0.055,EDD
+San Jose,Santa Clara County,2012,0.088,EDD
+Santa Clara,Santa Clara County,2012,0.071,EDD
+Saratoga,Santa Clara County,2012,0.056,EDD
+Sunnyvale,Santa Clara County,2012,0.071,EDD
+Benicia,Solano County,2012,0.068,EDD
+Dixon,Solano County,2012,0.092,EDD
+Fairfield,Solano County,2012,0.097,EDD
+Rio Vista,Solano County,2012,0.202,EDD
+Suisun City,Solano County,2012,0.094,EDD
+Vacaville,Solano County,2012,0.086,EDD
+Vallejo,Solano County,2012,0.143,EDD
+Cloverdale,Sonoma County,2012,0.077,EDD
+Cotati,Sonoma County,2012,0.116,EDD
+Healdsburg,Sonoma County,2012,0.077,EDD
+Petaluma,Sonoma County,2012,0.069,EDD
+Rohnert Park,Sonoma County,2012,0.092,EDD
+Santa Rosa,Sonoma County,2012,0.098,EDD
+Sebastopol,Sonoma County,2012,0.077,EDD
+Sonoma,Sonoma County,2012,0.081,EDD
+Windsor,Sonoma County,2012,0.077,EDD
