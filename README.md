@@ -36,5 +36,5 @@ CHANGE LINK!!!!
 ![alt text](https://github.com/skang06/bayarea_ue_poverty_life_expectancy/blob/main/Screen%20Shot%202020-12-06%20at%204.02.49%20PM.png)
 
 
-![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/Screen%20Shot%202020-11-22%20at%205.59.15%20PM.png)
+![alt text](https://github.com/skang06/bayarea_ue_poverty_life_expectancy/blob/main/Screen%20Shot%202020-12-06%20at%204.02.58%20PM.png)
 
