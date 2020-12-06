@@ -1,4 +1,4 @@
-# Analysis of Unemployment Rates, Poverty Rates, and Life Expectancy in Bay Area California with Vital Signs Data
+# Analysis of Unemployment, Poverty, and Life Expectancy in Bay Area, California with Vital Signs Data
 
 ## Background
 
