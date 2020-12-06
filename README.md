@@ -21,7 +21,7 @@ Used Python and Google colaboratory to conduct analysis
 
 ## Python Data Analysis
 
-![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/Screen%20Shot%202020-11-22%20at%205.58.12%20PM.png)
+![alt text](https://colab.research.google.com/drive/1l_RpMEK-4JKqW8F8IoJrnVpjJeIaHDip#scrollTo=EnTHdH46kLif&line=1&uniqifier=1)
 ![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/Screen%20Shot%202020-11-22%20at%205.58.31%20PM.png)
 Python was used to measure how many people were below/above the poverty level for each income bracket. This produced almost identical results to the Excel data analysis, further supporting the conclusion that there were much more people above poverty in Baltimore across the income percentiles. Moreover, getting people in the 50th percentile made a big difference in lowering the amount below poverty in Baltimore. Additionally, Nassau had barely any below poverty. The slight error in getting some people below poverty in Nassau although the Excel data analysis did not, was that the in my Excel analysis, I realized had filtered out those with blank inputs for the different income percentiles because I had been able to see it clearly since I saw the data set all on one page. Howevver, using Python, I wasn't able to catch that.
 
