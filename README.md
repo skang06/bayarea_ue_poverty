@@ -12,7 +12,7 @@ In order to further corroborate the trends in different variables and the effect
 FINISH
 
 ## Business Question
-___Would Universal Basic Income be an effective solution to reduce poverty, and thus increase life expectancy?___
+___Would Universal Basic Income be an effective solution to reduce poverty, and thus increase life expectancy in poorer areas?___
 
 FINISH
 
