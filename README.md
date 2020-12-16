@@ -6,8 +6,6 @@ An [editorial by the Baltimore Sun](https://www.baltimoresun.com/opinion/editori
 
 Additionally,[CBS Baltimore](https://baltimore.cbslocal.com/2017/07/06/life-expectancy-baltimore/) stated there are discrepancies in terms of life-expectancy in poorer areas of Baltimore. In fact, they had a life expectancy that was 20-years lower than that of richer areas. Lower life expectancy in poorer areas indicate that people are dying prematurely when these are preventable solutions, as those in richer areas are not dying so early. This problem is important as obviously we would like to create for a more equitable society, where people's livelihoods are not affected based on where they live- especially if there are ways to do so. 
 
-Per an [article](https://www.borgenmagazine.com/unemployment-creates-poverty/), one of the most common causes known for poverty worldwide is unemployment. 
-
 In order to further corroborate the trends in different variables and the effectiveness of [Universal Basic Income (UBI)](https://www.investopedia.com/terms/b/basic-income.asp), which is when everyone receives a basic income from the government regularly, as a solution for Baltimore City's problem with poverty and inequitable life expectancy issue, we are looking into data from Bay Area, California. This is a wider data set from a big region of California, so the results can be applied to Baltimore City. 
 
 ## Business Question
@@ -36,4 +34,4 @@ This provides more evidence for the need for UBI. For most of the cities with th
 
 ![alt text](https://github.com/skang06/bayarea_ue_poverty_life_expectancy/blob/main/Screen%20Shot%202020-12-06%20at%204.02.58%20PM.png)
 
-As shown in the combined line and bar graph there is a roughly inverse relationship between poverty rate and life expectancy. When povverrty rate is lower, the life expectancy is higher. This helps to confirm the article that indicated the life expectancy is lower in places with more poverty. As this is a wider data set encompassing all counties in the Bay Area, we can assume we can apply to results to Baltimore City.
+As shown in the combined line and bar graph there is a roughly inverse relationship between poverty rate and life expectancy. When poverty rate is lower, the life expectancy is higher. This helps to confirm the article that indicated the life expectancy is lower in places with more poverty. As this is a wider data set encompassing all counties in the Bay Area, we can assume we can apply to results to Baltimore City.
