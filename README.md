@@ -23,7 +23,7 @@ ___Would Universal Basic Income be an effective solution to reduce poverty, and 
 ## Python Notebook
 
 Used Python and Google colaboratory to conduct analysis.
-- __Bay Area Poverty, UE, Life Expectancy.ipynb:__ a Google Colaboratory notebook to aggregate data and make data visualizations [![Open in Colab]!(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1l_RpMEK-4JKqW8F8IoJrnVpjJeIaHDip?usp=sharing).
+- __Bay Area Poverty, UE, Life Expectancy.ipynb:__ a Google Colaboratory notebook to aggregate data and make data visualizations [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1l_RpMEK-4JKqW8F8IoJrnVpjJeIaHDip?usp=sharing).
 
 ## Data Analysis
 
